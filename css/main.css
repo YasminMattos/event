@@ -1,0 +1,10 @@
+.square {
+  box-sizing: border-box;
+  border: 2px solid blue;
+  width: 200px;
+  height: 200px;
+}
+.textColor {
+  color: red;
+  font-size: 50px;
+}
